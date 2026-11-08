@@ -1,0 +1,7 @@
+vendor/
+.env
+*.tmp
+App/scratch/
+logs/
+*.log
+.DS_Store
